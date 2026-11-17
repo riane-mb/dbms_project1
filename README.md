@@ -62,11 +62,11 @@ Once the CLI is running (indicated by the `>` prompt), you can use the following
 *(Showcasing the intelligent type deduction and schema generation)*
 
 **1. Creating a table with type guessing (`timport`):**
-> ![timport command](Captured_results\2_professor_timport.png) 
+> ![timport command](Captured_results/2_professor_timport.png) 
 
 
 **2. Searching tables by data type:**
-> ![find tables command](Captured_results\5_find_tables_col_type.png)
+> ![find tables command](Captured_results/5_find_tables_col_type.png)
 
 **3. Safely dropping all tables:**
-> ![drop all command](Captured_results\6_final_drop_and_show.png)
+> ![drop all command](Captured_results/6_final_drop_and_show.png)
